@@ -1,0 +1,1 @@
+# Pokémon Masters Damage Calculator by TrainerFromHoenn
